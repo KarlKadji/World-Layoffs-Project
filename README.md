@@ -21,8 +21,8 @@ Dataset
 How to Use
     Import layoffs.csv into your SQL database
 
-    Run the cleaning script
+   Run the cleaning script
 
-    Run the EDA script on the cleaned data
+   Run the EDA script on the cleaned data
 
 NOTE: Adjust table or column names if they differ in your setup.
